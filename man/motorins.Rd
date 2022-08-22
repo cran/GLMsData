@@ -77,7 +77,7 @@ data(motorins1)}
   The \acronym{OzDASL} datasets.
   The data were obtained electronically from the Statlib database by
   Dr Gordon Smyth for \acronym{OzDASL}
-  (\url{www.statsci.org/data}).
+  (\url{http://www.statsci.org/data/}).
 }
 \references{
   M. Hallin and J.-F. Ingenbleek (1983)

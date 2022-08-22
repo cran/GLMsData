@@ -29,17 +29,14 @@
   1990 Pilot Surf/Health Study of \acronym{nsw} Water Board.
 }
 \source{
+  This data file was downloaded from \acronym{OzDASL}
+  (\url{http://www.statsci.org/data/oz/earinf.html})
+  where it was prepared by Dr Gordon Smyth from Hand et al (1994) Dataset 328.
+}
+\references{
   D. J. Hand, F. Daly, A. D. Lunn, K. J. McConway, and E. Ostrowski (1994)
   \emph{A Handbook of Small Data Sets}, London: Chapman and Hall.
   Dataset 328.
-}
-\references{
-  The original source is Val Gebski, 
-  from private communication from Cameron Kirton 
-  (\acronym{nsw} Water Board, Sydney Australia).
-  This data file was downloaded from \acronym{OzDASL}
-  (\url{http://www.statsci.org/data/index.html})
-  where it was prepared by Dr Gordon Smyth.
 }
 \examples{
 data(earinf)

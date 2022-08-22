@@ -42,7 +42,7 @@
 }
 \source{
   Data obtained from \acronym{iri}/\acronym{ldeo} Climate Data Library
-  (\url{http://ingrid.ldgo.columbia.edu/})
+  (formerly \code{http://ingrid.ldgo.columbia.edu} now \url{http://iridl.ldeo.columbia.edu})
   on 26 May 2009.}
 \examples{
 data(quilpie)

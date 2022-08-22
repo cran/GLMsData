@@ -23,7 +23,8 @@
 }
 \source{
   The Data and Story Library (\acronym{dasl}) 
-  (\url{http://lib.stat.cmu.edu/DASL/})
+  (formerly \code{http://lib.stat.cmu.edu/DASL/}
+  now \url{https://dasl.datadescription.com})
 }
 \references{
   Originally from \emph{Forbes}, November 8, 1993 

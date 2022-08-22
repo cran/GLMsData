@@ -37,7 +37,8 @@ data(cheese)
 	second edition.
 
 	The Statlib data base:
-	\url{http://lib.stat.cmu.edu/DASL/Datafiles/Cheese.html}
+	formerly \code{http://lib.stat.cmu.edu/DASL/Datafiles/Cheese.html}
+	now \url{https://dasl.datadescription.com}.
 }
 
 \references{

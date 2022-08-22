@@ -21,7 +21,7 @@
   }
 }
 \details{
-  The data come from Nambe Mills (\url{http://www.nambe.com/}),
+  The data come from Nambe Mills (\url{https://www.nambe.com/}),
   manufacturers of tableware made from sand casting a special alloy 
   of several metals.
   The polishing times for the products are thought to be related 

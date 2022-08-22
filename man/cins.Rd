@@ -41,13 +41,14 @@
   The data are for policy years 1956 and 1957, as of 30 June 1959.
 }
 \source{
+  The data was downloaded from \acronym{OzDASL}
+  \url{http://www.statsci.org/data/general/carinsca.html}
+  where it was prepared by Gordon Smyth from Bailey and Simon (1960).
+}
+\references{
   Robert A. Bailey and LeRoy J. Simon (1960) 
   Two studies in automobile insurance
   ratemaking. \emph{ASTIN Bulletin}, \bold{I(IV)}:192-217.
-}
-\references{
-  The data were obtained electronically from the Statlib database (\url{http://lib.stat.cmu.edu/DASL/}) by
-  Dr Gordon Smyth for \acronym{OzDASL} (\url{http://www.statsci.org/data/}).
 }
 \examples{
 data(cins)

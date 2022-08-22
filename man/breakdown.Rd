@@ -19,7 +19,7 @@
 \details{
    The data come from a study of performance degradation of electrical insulation 
    from accelerated tests.
-   The study can be considered as a \eqn{$8\times 4$}{8 x 4} factorial experiment,
+   The study can be considered as a 8-by-4 factorial experiment,
    with four measurements for each time--temperature combination.
 }
 \source{

@@ -4,7 +4,7 @@
 \title{Mandible length and gestational age}
 \description{
   The data give the mandible length and gestational age for 167 foetuses
-  from the 15th week of gestation onwards
+  from the 12th week of gestation onwards
 }
 \usage{data(mandible)}
 \format{
@@ -18,7 +18,7 @@
 }
 \details{
   The data give the mandible length and gestational age for 167 foetuses
-  from the 15th week of gestation onwards,
+  from the 12th week of gestation onwards,
   measured using ultrasound.
 }
 \source{

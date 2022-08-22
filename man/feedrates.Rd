@@ -38,20 +38,20 @@
   Kin selection, not group augmentation, predicts helping in an obligate cooperatively breeding bird.
   \emph{Proceedings of the Royal Society B},
   \bold{279}(1743): 3861--3869.
-  \url{http://dx.doi.org/10.1098/rspb.2012.1080}
+  \doi{10.1098/rspb.2012.1080}
   
   L. E. Browning, S. C. Patrick, L. A. Rollins, S. C. Griffith, and A. F. Russell (2012)
   Data from: 
     Kin selection, not group augmentation, predicts helping in an obligate cooperatively breeding bird.
   \emph{Dryad Digital Repository}. 
-  \url{http://dx.doi.org/10.5061/dryad.ff868}
+  \doi{10.5061/dryad.ff868}
 }
 \references{
   L. E. Browning, S. C. Patrick, L. A. Rollins, S. C. Griffith, and A. F. Russell (2012)
   Kin selection, not group augmentation, predicts helping in an obligate cooperatively breeding bird.
   \emph{Proceedings of the Royal Society B},
   \bold{279}(1743): 3861--3869.
-  \url{http://dx.doi.org/10.1098/rspb.2012.1080}
+  \doi{10.1098/rspb.2012.1080}
 }
 \examples{
   data(feedrates)

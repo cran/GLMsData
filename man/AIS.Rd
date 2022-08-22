@@ -18,7 +18,7 @@
                         \code{Netball},
                         \code{Rowing},
                         \code{Swim} (swimming),
-                        \code{T400m}, (track, >400m),
+                        \code{T400m}, (track, further than 400m),
                         \code{Tennis},
                         \code{TPSprnt} (track sprint events),
                         \code{WPolo} (waterpolo)} 

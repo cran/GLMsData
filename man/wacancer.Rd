@@ -26,7 +26,7 @@
   Health Department of Western Australia Annual Report 1997/1998---health
   of Western Australians---mortality and survival.
   Published on the internet
-  \url{www.health.wa.gov.au/Publications/annualreport_9798/},
+  \code{http://www.health.wa.gov.au/Publications/annualreport_9798/},
   accessed 19~September 2001.
 }
 \examples{

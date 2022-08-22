@@ -33,7 +33,7 @@
    Canadian Cancer Society. 
    Canadian cancer statistics 2000. 
    Published on the internet: 
-   \url{www.cancer.ca/stats2000/tables/tab5e.htm}. 
+   \code{http://www.cancer.ca/stats2000/tables/tab5e.htm}. 
    Accessed 19 September 2001.
 	
 	
@@ -41,7 +41,8 @@
    Population estimates from:
    \emph{The Daily}, Tuesday September 25, 2001.
    (Accessed on the internet:
-   \url{http://www.statcan.gc.ca/daily-quotidien/010925/dq010925a-eng.htm})
+   \code{http://www.statcan.gc.ca/daily-quotidien/010925/dq010925a-eng.htm}
+   now \url{https://www150.statcan.gc.ca/n1/daily-quotidien/010925/dq010925a-eng.htm})
 }
 \examples{
 data(ccancer)
